@@ -38,6 +38,6 @@ Please read [CONTRIBUTING.md](CONTRIBUTING.md) for details on our code of conduc
 
 ## Contact
 
-[Your Name] - [@your_twitter](https://twitter.com/your_twitter) - email@example.com
+Shreyank Shukla - @shuklashreyank(https://x.com/shuklashreyank)- shreyank.shukla.rishu@gmail.com
 
-Project Link: [https://github.com/yourusername/small-project](https://github.com/yourusername/small-project)
+Project Link: https://github.com/ysshuklashreyank/krishi-bajaar
