@@ -5,7 +5,7 @@ interface CategoryListProps {
 }
 
 const CategoryList: React.FC<CategoryListProps> = ({ setCategoryFilter }) => {
-  const categories = ['Vehicles', 'Electronics', 'Furniture', 'Real Estate'];
+  const categories = ['Grains', 'Vegetables', 'Milk'];
 
   return (
     <div className="category-list">
