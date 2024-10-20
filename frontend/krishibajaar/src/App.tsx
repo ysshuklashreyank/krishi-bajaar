@@ -5,9 +5,10 @@ import CategoryList from './CategoryList.tsx';
 import AdList from './AdList.tsx';
 
 const App: React.FC = () => {
+// eslint-disable-next-line
   const [ads, setAds] = useState<Array<{ id: number; title: string; price: string; category: string }>>([
-    { id: 1, title: 'Used Car', price: '₹500,000', category: 'Vehicles' },
-    { id: 2, title: 'Laptop', price: '₹40,000', category: 'Electronics' },
+    { id: 1, title: 'Wheat', price: '₹500', category: 'Grains' },
+    { id: 2, title: 'Bhindi', price: '₹40', category: 'Vegetables' },
     // Add more ads here
   ]);
 
